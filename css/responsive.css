@@ -12,6 +12,7 @@
     .about-sec .about-img {
         display: flex;
         justify-content: center;
+        margin-top: 60%;
     }
     .about-sec .about-img img{
         margin-top: 50px;
@@ -56,7 +57,9 @@
     .mission{
         margin-top: 1100px;
         margin-bottom: 100px;
+        
     }
+
 }
 
 
@@ -72,4 +75,5 @@ header .navbar-brand{
 .gallery-sec .pop-image img {
     width: 300px;
 }
+
 }
